@@ -41,3 +41,14 @@ button {
     border: none;
     padding: 10px 20px;
 }
+
+.attribution {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+}
+
+.attribution>a {
+    color: #DAE2D3;
+}
